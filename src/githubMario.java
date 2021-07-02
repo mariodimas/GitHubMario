@@ -12,6 +12,7 @@ public class githubMario {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hallo Dunia");
+        System.out.println("Ahoj světe");
         System.out.println("Hola Mundo");
     }
 }

@@ -14,5 +14,6 @@ public class githubMario {
         System.out.println("Hallo Dunia");
         System.out.println("Ahoj světe");
         System.out.println("Hola Mundo");
+        System.out.println("Hello Wolrd dalam beberapa bahaasa.");
     }
 }
